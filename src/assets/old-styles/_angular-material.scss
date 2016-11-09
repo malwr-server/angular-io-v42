@@ -1,0 +1,18 @@
+/*
+ * Angular Material Styles (subset)
+ *
+ * Subset of ngMaterial styles needed to make site work.
+ */
+
+[layout] {
+  box-sizing: border-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+[layout="row"] {
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
