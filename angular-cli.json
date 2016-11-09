@@ -18,7 +18,9 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.css"
+        "assets/old-styles/vendor/icomoon/style.css",
+        "assets/old-styles/vendor/animate.css",
+        "assets/old-styles/main.scss"
       ],
       "scripts": [],
       "environments": {
