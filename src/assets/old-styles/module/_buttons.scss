@@ -66,12 +66,12 @@ a.button.md-button {
   &.button-shield,
   &.button-shield.md-button {
     background-color: $blue-600;
-    background: $blue-600 url('/resources/images/logos/inverse/shield/22.png') 24px 13px no-repeat;
+    background: $blue-600 url('/assets/images/logos/inverse/shield/22.png') 24px 13px no-repeat;
     color: rgba($white, .87);
     padding-left: 54px;
 
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
-      background: $blue-600 url('/resources/images/logos/inverse/shield/22@2x.png') 24px 13px no-repeat;
+      background: $blue-600 url('/assets/images/logos/inverse/shield/22@2x.png') 24px 13px no-repeat;
       background-size: 22px 22px;
     }
   }
